@@ -7,7 +7,7 @@ const colors = [
   "bg-green-400",
   "bg-blue-400",
   "bg-purple-400",
-  "bg-black",
+  "bg-main",
 ];
 
 const C = () => {
